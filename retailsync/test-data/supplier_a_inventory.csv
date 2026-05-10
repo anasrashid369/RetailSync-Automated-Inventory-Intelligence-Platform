@@ -1,0 +1,6 @@
+product_id,product_name,category,quantity,threshold,unit_price,supplier
+A001,Samsung 65" QLED TV,Electronics,45,10,899.99,supplier-a
+A002,iPhone 15 Pro Case,Electronics,8,15,29.99,supplier-a
+A003,Nike Air Max 270,Footwear,3,20,150.00,supplier-a
+A004,Levi's 501 Jeans,Clothing,62,10,79.99,supplier-a
+A005,Sony WH-1000XM5,Electronics,12,8,349.99,supplier-a

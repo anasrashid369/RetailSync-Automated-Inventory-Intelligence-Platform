@@ -1,0 +1,6 @@
+product_id,product_name,category,quantity,threshold,unit_price,supplier
+C001,KitchenAid Mixer,Appliances,4,5,449.99,supplier-c
+C002,Dyson V15 Vacuum,Appliances,7,4,649.99,supplier-c
+C003,LEGO Technic Set,Toys,23,10,89.99,supplier-c
+C004,Yoga Mat Premium,Sports,11,8,45.99,supplier-c
+C005,Coffee Maker Pro,Appliances,2,6,129.99,supplier-c

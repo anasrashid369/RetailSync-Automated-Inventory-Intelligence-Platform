@@ -1,0 +1,6 @@
+product_id,product_name,category,quantity,threshold,unit_price,supplier
+B001,MacBook Pro 14",Electronics,5,5,1999.99,supplier-b
+B002,Adidas Ultraboost,Footwear,18,10,180.00,supplier-b
+B003,Canon EOS R50,Electronics,2,3,679.99,supplier-b
+B004,Zara Summer Dress,Clothing,35,15,59.99,supplier-b
+B005,Dell 27" Monitor,Electronics,9,6,399.99,supplier-b
